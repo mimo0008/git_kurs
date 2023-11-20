@@ -8,3 +8,4 @@ HAVING ab.album = 'Mamma Mia' and datepart(second,a.playtime) <= 180 and genre !
 --zusätzliche Info ergänzt.
 --this info is from rock branch
 --lokale Änderung 20.11.
+--lokale änderung nummer 2 
