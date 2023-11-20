@@ -9,3 +9,4 @@ HAVING ab.album = 'Mamma Mia' and datepart(second,a.playtime) <= 180 and genre !
 --this info is from rock branch
 --lokale Änderung 20.11.
 --lokale änderung nummer 3
+--lokale änderung für kapitel 40
